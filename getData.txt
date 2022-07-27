@@ -1,0 +1,4 @@
+open ftp://plattsBuoy:LCR1_$uny@ftp.drivehq.com 
+get latest.valcour.csv C:\Buoy\
+close
+exit
