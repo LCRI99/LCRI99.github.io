@@ -31,6 +31,7 @@ copy /Y last7_wind.png C:\Users\eleib003\Documents\GitHub\plattsBuoy.github.io\.
 copy /Y last7_Temp_valcour.png C:\Users\eleib003\Documents\GitHub\plattsBuoy.github.io\.
 copy /Y temp_profile.png C:\Users\eleib003\Documents\GitHub\plattsBuoy.github.io\.
 copy /Y last7.valcour.csv C:\Users\eleib003\Documents\GitHub\plattsBuoy.github.io\.
+copy /Y last7.36.csv ..\LCRI99.github.io\ 
 copy /Y all.valcour.csv C:\Users\eleib003\Documents\GitHub\plattsBuoy.github.io\.
 
 :: Clean up the archive master files (not operational ones)

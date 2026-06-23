@@ -1,4 +1,5 @@
 open ftp://suny-pbrg:s5N4nx6Dwh3f@comms.ndbc.noaa.gov 
 put C:\Buoy\Sta45178.latest.xml
+put C:\Buoy\Sta45221.latest.xml
 close
 exit
